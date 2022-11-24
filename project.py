@@ -47,5 +47,5 @@ class graficaXY(Scene):
             color = GREEN
         )
         self.play(Write(graph), run_time = 3.1)
-        self.wait(6)
+        self.wait(4.7)
 
